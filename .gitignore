@@ -1,0 +1,13 @@
+﻿.venv/
+__pycache__/
+.env
+data/
+outputs/
+models/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+*.engine

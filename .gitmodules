@@ -1,0 +1,15 @@
+[submodule "third_party/vggt"]
+	path = third_party/vggt
+	url = https://github.com/facebookresearch/vggt.git
+[submodule "third_party/depth-anything-v2"]
+	path = third_party/depth-anything-v2
+	url = https://github.com/landing-ai/depth-anything-v2.git
+[submodule "third_party/moge"]
+	path = third_party/moge
+	url = https://github.com/microsoft/moge.git
+[submodule "third_party/ultralytics"]
+	path = third_party/ultralytics
+	url = https://github.com/ultralytics/ultralytics.git
+[submodule "third_party/zipdepth"]
+	path = third_party/zipdepth
+	url = https://github.com/fabiotosi92/ZipDepth.git
